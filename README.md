@@ -48,7 +48,7 @@ Meals App displays meals from different categories and let's the users search th
    
    ## 🔗 Links
    
-   > ## Checkout the Website [Web Application](https://saurabhdixit93.github.io/mealsapp/)
+   > ## Checkout the Website [Web Application](https://sanketpareta.github.io/Meal-web-app/)
    <br/>
    
    ## 💻 Screens
