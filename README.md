@@ -60,10 +60,10 @@ Meals App displays meals from different categories and let's the users search th
    
    ## 🐦 Follow Me:
 
-> [GitHub](github.com/Saurabhdixit93)
+> [GitHub](github.com/sanketpareta)
 
 
-> [LinkedIn](https://www.linkedin.com/in/saurabhdixit93/)
+> [LinkedIn](https://www.linkedin.com/in/sanket-pareta-55209a205)
 
 
 I hope you like the project. Thanks for reading :)
